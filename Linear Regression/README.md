@@ -2,7 +2,7 @@
 This folder consists of Linear Regression Implementation from scratch. The implementation has been done separately for both **Simple Linear Regression** and **Multi-linear Regression**.
 
 **1. Simple Linear Regression**
-I have implemented simple linear regression step by step using a database that shows salaries based on years of experience. We use the algorithm to predict the salary for a given number of years of experience.<br\>
+I have implemented simple linear regression step by step using a database that shows salaries based on years of experience. We use the algorithm to predict the salary for a given number of years of experience.<br/>
 Below are the steps for implementation:
 //Step 1: Importing the libraries like NumPy, Pandas, and Matplotlib and loading the dataset in the jupyter notebook.
 
