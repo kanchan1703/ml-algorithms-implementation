@@ -24,4 +24,4 @@ The purpose of the sprint is to learn publicly and possibly help aspiring data s
 
 I keep myself updated with the latest happenings around AI and technology. I am always tinkering with innovative AI use cases and regularly taking part in tech events and hackathons.<br/>
 
-Here is my LinkedIn <ahref>https://www.linkedin.com/in/kanchankumari1732/<\ahref>. Happy to connect and discuss technology!
+Here is my LinkedIn <ahref>https://www.linkedin.com/in/kanchankumari1732/<ahref/>. Happy to connect and discuss technology!
