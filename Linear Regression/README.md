@@ -1,4 +1,4 @@
-**Linear Regression**
+**Linear Regression**<br/>
 Linear Regression is a statistical method used to derive the relationship between a dependent variable(target) and one or more independent variables (predictors).<br/> It is widely used for prediction, forecasting and understanding variable relationships.<br/> 
 This folder consists of Linear Regression Implementation from scratch. The implementation has been done separately for both **Simple Linear Regression** and **Multi-linear Regression**.
 
@@ -46,7 +46,7 @@ Step 7 Model Training and Evaluation:
 In this step, I trained the model using gradient descent with 200 epochs and a learning rate of 0.001.
 Then tested the model on the test set, computed test loss, and plotted training loss over epochs.
 
-**Real-Life Applications of Linear Regression**
+**Real-Life Applications of Linear Regression**<br/>
 Linear regression is widely used in the tech industry due to its simplicity, interpretability, and efficiency.<br/>
 It has numerous industrial applications such as predicting sales, analyzing risk, analyzing customer behavior and optimizing processes.<br/>
 Here are some specific industrial applications:<br/>
