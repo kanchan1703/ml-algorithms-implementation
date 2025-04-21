@@ -1,2 +1,12 @@
-**LOGISTIC REGRESSION**
+Logistic Regression
 
+Logistic Regression is a supervised machine learning algorithm that undertakes binary classification tasks by predicting the probability of an outcome or obervation.<br/>
+The model delivers an outcome limited to two possible outcomes, for example, yes/no (or) 0/1 (or) true/false.<br/>
+
+Key Properties of Logistic Regression:<br/>
+1. Logistic Regression's deoendent varaible follows Bernoulli Deistribution.<br/>
+2. The prediction is based on Maximum Likelihood.<br/>
+
+Types of Logistic Regression:<br/>
+1. Binary Logistic Regression:<br/> It predicts the relationship between the independetn and binary dependent varaibels (fro example, 0/1, true/false)<br/>
+2. 
