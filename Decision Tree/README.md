@@ -1,9 +1,9 @@
 
-**Decision Tree**<br/>
+**Decision Tree Algorithm**<br/>
 
 **What did I do in the Decision Tree Implementation?** <br/>
 
-I have implemented Decision Tree Classifier from scratch using NumPy and various other libraries for plotting and visualization etc. 
+I focused specifically on **Decision Tree Classifier** and implemented it from scratch using NumPy and various other libraries for plotting and visualization, etc. 
 I encoded the categorical variables using Label Encoder.
 
 Used Information Gain (Entropy) as the splitting criterion, and visualized the predictions with the help of a confusion matrix.<br/>
