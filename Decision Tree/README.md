@@ -68,7 +68,7 @@ Gini index is a measure of impurity or purity used while creating a decision tre
 
 *Gini Index= 1- ∑jPj2*
 
-**A note for the reader**
+**A note for the reader** <br/>
 *This project is a great starting point for anyone who wants to understand how decision trees
 work at a low level, without relying on machine learning libraries.*
 
