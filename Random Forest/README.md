@@ -18,7 +18,7 @@ And, in the end, split the dataset into 80% training and 20% test dataset.<br/>
 
 Step 2: **Decision Tree Classification** <rb/>
 
-Where, I built a decision tree class to create individual trees, using the GINI inpurity for the splits.<br/>
+Where, I built a decision tree class to create individual trees, using the GINI impurity for the splits.<br/>
 
 
 Step 3: **Random Forest Implementation** <br/>
