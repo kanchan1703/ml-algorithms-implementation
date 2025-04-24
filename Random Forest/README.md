@@ -57,8 +57,7 @@ Achieved a test accuracy equal to 62%.<br/>
 
 
 
-</n>
-<n\>
+
 
 
 *A little note for the reader*:  <br/>
