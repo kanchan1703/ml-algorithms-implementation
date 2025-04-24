@@ -21,7 +21,6 @@ Step 2: **Decision Tree Classification** <rb/>
 Where, I built a decision tree class to create individual trees, using the GINI inpurity for the splits.<br/>
 
 
-
 Step 3: **Random Forest Implementation** <br/>
 
 
@@ -55,6 +54,11 @@ Achieved a test accuracy equal to 62%.<br/>
 
 
 
+
+
+
+</n>
+<n\>
 
 
 *A little note for the reader*:  <br/>
