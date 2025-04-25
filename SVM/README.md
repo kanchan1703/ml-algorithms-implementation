@@ -2,9 +2,18 @@
 
 This is a repository where I have implemented the **Support Vector Machine (SVM) Algorithm** from scratch, where I used both **Linear** and **RBF kernels** and visualized the results in **PCA** space. <br/>
 
+**Hyperplane**: A decision boundary separating different classes in feature space. <br/>
+Linear hyperplane equation: *w*x + *b* <br/>
+
+**Margin**: Distance from the hyperplane to the nearest data points. <br/>
+
+The best hyperplane is called the **hard margin**, which creates the maximum distance between the hyperplane and data points. <br/>
+
+**Support Vector:** A data point that lies on the margin and influences the decision boundary. <br/>
+
 The implementation has given me a good understanding of how the SVM Linear and RBF Kernels work.<br/>
 
-The stepwise description of the implementation:<br/>
+*The stepwise description of the implementation*:<br/>
 
 Step 1: **Data Loading and Data Preparation** <br/>
 I started by loading the  Red Wine Quality dataset, and converted the  quality scores into a Binary Classification Problem by dividing the quality into the sets Good (quality >=7) and Bad (quality<7).<br/>
@@ -25,13 +34,10 @@ REF Kernel:
 Step 4: **SVM Training(SMO)** <br/>
 I wrote the SVM training loop using the Sequential Minimal Optimization (SMO) algorithm.<br/>
 
-**Margin:** The distance between the decision boundary and the closest data points
 
 Step 5: **Support Vectors** <br/>
 After training, I identified the support vectors. These are
 the critical points that define the margin and the decision boundary.<br/>
-**Support Vector:** A data point that lies on the margin and influences the decision
-boundary
 
 
 Step 6: **Visualization** 
