@@ -28,7 +28,7 @@ There are several different types of neural networks, We generally focus on the 
 
 I have implemented MLP Neural Network, where I used the Python library for my implementation from scratch.<br/>
 
-*What exactly is a Multi-Layer Perceptron?* <br/>
+**What exactly is a Multi-Layer Perceptron?** <br/>
 
 A neural network, which consists of at least 3 layers, input, one or more hidden and and output layer. Each neuron in one layer is connected to every neuron in the next layer.<br/>
 
