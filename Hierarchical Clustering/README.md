@@ -45,7 +45,7 @@ After that, building the Hierarchical cluster and assigning cluster labels by th
 <br>
 
 
-At the end of the implementation, I plotted the **Dendrogram**, visualizing the clustering hierarchy and **Cluster** Scatter Plot in 2D using two features *Current Price* and *Volatility*. 
+At the end of the implementation, I plotted the **Dendrogram**, visualizing the clustering hierarchy and **Cluster** Scatter Plot in 2D using two features. 
 <br>
 I used the first **30 samples** to plot the dendrogram to make it less cluttered.
 <br>
