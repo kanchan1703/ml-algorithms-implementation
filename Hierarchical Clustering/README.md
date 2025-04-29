@@ -47,7 +47,19 @@ In the **Fit Method**, built linkage matrix is built by iteratively merging the 
 
 At the end of the implementation, I plotted the **Dendrogram**, visualizing the clustering hierarchy and **Cluster** Scatter Plot in 2D using two features *Current Price* and *Volatility*. <br/>
 
-This implementation provides a custom, interpretable approach to hierarchical clustering, suitable for analyzing stock data patterns.
+This implementation provides a custom, interpretable approach to hierarchical clustering, suitable for analyzing stock data patterns.<br/>
+
+*How is it **different** from k-Means Clustering?* <br/>
+Unlike K-Means, it does not need a pre-defined number of clusters. <br/>
+K-Means is a division of the dataset into non-overlapping subsets, whereas Hierarchical clustering is a set of nested clusters arranged in the form of a tree.<br/>
+
+**Some real-life uses of Hierarchical Clustering**<br/>
+
+Hierarchical clustering has a wide range of applications across various domains. Such as:
+1. Customer Segmentation: segmenting customers on the basis of their purchasing preferences and behavior.<br/>
+2. Recommender Systems: Hierarchical clustering can assist in building recommender systems by grouping similar users or items based on their preferences or behavior. <br/>
+3. Gene Expression Analysis: used to identify patterns and clusters of genes with similar expression profiles, which can helo in understanding gene relationships.
+
 
 
 
