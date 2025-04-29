@@ -1,26 +1,25 @@
 **Hierarchical Clustering Algorithm** <br/>
 
 Hierarchical clustering is an **unsupervised learning** method, also known as *hierarchical cluster analysis*, which groups similar objects into clusters.<br/>
-
 A hierarchical clustering approach is based on determining successive clusters based on previously defined clusters. The main aim is to group the similar data points into a hierarchy or tree-like structure called **dendrograms**.<br/>
 
+**Dendrogram**: A dendrogram is a family tree of clusters, which shows how data points or groups of data merge together.<br/> The bottom shows each data point as its own group, and as you move up, similar groups are combined. The lower the merge point, the more similar the groups are.
 
-**Dendrogram**: A dendrogram is a family tree of clusters, which shows how data points or groups of data merge together.<br/> The bottom shows each data point as its own group, and as you move up, similar groups are combined. The lower the merge point, the more similar the groups are. <br/>
+<br>                                                                                                                                                                                                                                                                 
+**Types of Hierarchical Clustering** 
+<br>
+1. Agglomerative Clustering (bottom-up approach)
 
+2. Divisive Clustering (top-down approach)  
 
-
-**Types of Hierarchical Clustering** <br/>
-
-1. Agglomerative Clustering (bottom-up approach)<br/>
-2. Divisive Clustering (top-down approach)  <br/>
-
-
+<br>
 
 
 **Implementation of Agglomerative Hierarchical Clustering** <br/>
 
-I implemented *Agglomerative Hierarchical Clustering*, using the *Stock Price* dataset in python from scratch.<br/>
+I implemented *Agglomerative Hierarchical Clustering*, using the *Stock Price* dataset in python from scratch.
 
+<br>
 
 *What exactly is **Agglomerative** Hierarchical Clustering?* <br/>
 
